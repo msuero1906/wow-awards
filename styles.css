@@ -1,0 +1,61 @@
+.henry {
+    width:500px;
+    border:10px solid grey;
+     display: block;
+    margin: 0 auto;
+     
+}
+    
+h1 { font-family:'Mali';
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+.daily {
+     width:300px;
+    border:10px dashed red;
+    display: block;
+    margin: 0 auto;
+}
+
+body {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoi6zyyBYFqq1Iyc_eaUKkOiu0Qg3KWrTacIljtYSIOTllDKln);
+    color: gold;
+}
+    
+h2 {
+    font-family:'Mali';
+    display: flex;
+    justify-content: center;
+}
+p { font-family:'Black And White Picture';
+    display: flex;
+     justify-content:center;
+}
+
+.aurora{ width:400px;
+     border:10px dashed white;
+    display: block;
+    margin: 0 auto;
+}
+
+.wow{ display: block;
+    margin: 0 auto;
+    border:10px solid gold;
+}
+
+.flume{display: block;
+    margin: 0 auto;
+     border:10px dashed purple;
+}
+
+.deer {width:400px;
+    border:10px solid silver;
+    display: block;
+    margin: 0 auto;
+    
+}
+
+    
+    
